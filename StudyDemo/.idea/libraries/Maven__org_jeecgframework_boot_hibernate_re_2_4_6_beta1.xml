@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.jeecgframework.boot:hibernate-re:2.4.6-beta1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jeecgframework/boot/hibernate-re/2.4.6-beta1/hibernate-re-2.4.6-beta1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jeecgframework/boot/hibernate-re/2.4.6-beta1/hibernate-re-2.4.6-beta1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/jeecgframework/boot/hibernate-re/2.4.6-beta1/hibernate-re-2.4.6-beta1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

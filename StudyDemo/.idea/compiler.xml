@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jeecg-system-cloud-api" />
+        <module name="jeecg-cloud-monitor" />
+        <module name="flink-doris-connector" />
+        <module name="ziniao-rpa-common" />
+        <module name="jeecg-boot-module-system" />
+        <module name="qulv-system-cloud-api" />
+        <module name="dataware-house" />
+        <module name="jeecg-boot-base-core" />
+        <module name="jeecg-cloud-nacos" />
+        <module name="qulv-3rd-api-system" />
+        <module name="jeecg-cloud-system-start" />
+        <module name="jeecg-boot-starter-lock" />
+        <module name="jeecg-cloud-platform-api-job" />
+        <module name="jeecg-boot-starter-job" />
+        <module name="jeecg-boot-starter-cloud" />
+        <module name="jeecg-boot-base-tools" />
+        <module name="qulv-ebay-api-job" />
+        <module name="qulv-system-job" />
+        <module name="jeecg-boot-module-demo" />
+        <module name="jeecg-boot-starter-rabbitmq" />
+        <module name="qulv-amazon-sqs-job" />
+        <module name="jeecg-cloud-xxljob" />
+        <module name="jeecg-cloud-sentinel" />
+        <module name="jeecg-system-local-api" />
+        <module name="qulv-system-base" />
+        <module name="qulv-system-local-api" />
+        <module name="jeecg-cloud-gateway" />
+        <module name="qulv-system" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dataware-house" target="1.8" />
+      <module name="flink-doris-connector" target="8" />
+      <module name="jeecg-boot-base" target="1.8" />
+      <module name="jeecg-boot-base-api" target="1.8" />
+      <module name="jeecg-boot-base-core" target="1.8" />
+      <module name="jeecg-boot-base-tools" target="1.8" />
+      <module name="jeecg-boot-module-demo" target="1.8" />
+      <module name="jeecg-boot-module-system" target="1.8" />
+      <module name="jeecg-boot-parent" target="1.8" />
+      <module name="jeecg-boot-starter" target="1.8" />
+      <module name="jeecg-boot-starter-cloud" target="1.8" />
+      <module name="jeecg-boot-starter-job" target="1.8" />
+      <module name="jeecg-boot-starter-lock" target="1.8" />
+      <module name="jeecg-boot-starter-rabbitmq" target="1.8" />
+      <module name="jeecg-cloud-gateway" target="1.8" />
+      <module name="jeecg-cloud-module" target="1.8" />
+      <module name="jeecg-cloud-monitor" target="1.8" />
+      <module name="jeecg-cloud-nacos" target="1.8" />
+      <module name="jeecg-cloud-platform-api-job" target="1.8" />
+      <module name="jeecg-cloud-sentinel" target="1.8" />
+      <module name="jeecg-cloud-system-start" target="1.8" />
+      <module name="jeecg-cloud-xxljob" target="1.8" />
+      <module name="jeecg-system-cloud-api" target="1.8" />
+      <module name="jeecg-system-local-api" target="1.8" />
+      <module name="qulv-3rd-api-system" target="1.8" />
+      <module name="qulv-amazon-sqs-job" target="1.8" />
+      <module name="qulv-ebay-api-job" target="1.8" />
+      <module name="qulv-system" target="1.8" />
+      <module name="qulv-system-base" target="1.8" />
+      <module name="qulv-system-cloud-api" target="1.8" />
+      <module name="qulv-system-job" target="1.8" />
+      <module name="qulv-system-local-api" target="1.8" />
+      <module name="tomtop-cloud-module" target="1.8" />
+      <module name="ziniao-rpa-common" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="jeecg-boot-base-core" options="-parameters" />
+      <module name="jeecg-boot-base-tools" options="-parameters" />
+      <module name="jeecg-boot-module-demo" options="-parameters" />
+      <module name="jeecg-boot-module-system" options="-parameters" />
+      <module name="jeecg-boot-starter-cloud" options="-parameters" />
+      <module name="jeecg-boot-starter-job" options="-parameters" />
+      <module name="jeecg-boot-starter-lock" options="-parameters" />
+      <module name="jeecg-boot-starter-rabbitmq" options="-parameters" />
+      <module name="jeecg-cloud-gateway" options="-parameters" />
+      <module name="jeecg-cloud-monitor" options="-parameters" />
+      <module name="jeecg-cloud-nacos" options="-parameters" />
+      <module name="jeecg-cloud-platform-api-job" options="-parameters" />
+      <module name="jeecg-cloud-sentinel" options="-parameters" />
+      <module name="jeecg-cloud-system-start" options="-parameters" />
+      <module name="jeecg-cloud-xxljob" options="-parameters" />
+      <module name="jeecg-system-cloud-api" options="-parameters" />
+      <module name="jeecg-system-local-api" options="-parameters" />
+      <module name="qulv-3rd-api-system" options="-parameters" />
+      <module name="qulv-amazon-sqs-job" options="-parameters" />
+      <module name="qulv-ebay-api-job" options="-parameters" />
+      <module name="qulv-system" options="-parameters" />
+      <module name="qulv-system-base" options="-parameters" />
+      <module name="qulv-system-cloud-api" options="-parameters" />
+      <module name="qulv-system-job" options="-parameters" />
+      <module name="qulv-system-local-api" options="-parameters" />
+      <module name="ziniao-rpa-common" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="D:/DownModule/dataware-house/pom.xml" />
+        <option value="D:/DownModule/doris-flink-connector/flink-doris-connector/pom.xml" />
+        <option value="D:/DownModule/qulv2-qulv-cloud/jeecg-boot/pom.xml" />
+        <option value="D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-module-demo/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_12" default="false" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

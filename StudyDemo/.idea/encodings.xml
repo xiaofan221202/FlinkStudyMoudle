@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://D:/DownModule/dataware-house" charset="UTF-8" />
+    <file url="file://D:/DownModule/doris-flink-connector/flink-doris-connector" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-base" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-base/jeecg-boot-base-api" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-base/jeecg-boot-base-api/jeecg-system-cloud-api" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-base/jeecg-boot-base-api/jeecg-system-local-api" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-base/jeecg-boot-base-core" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-base/jeecg-boot-base-tools" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-module-demo" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-module-system" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-starter" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-starter/jeecg-boot-starter-cloud" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-starter/jeecg-boot-starter-job" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-starter/jeecg-boot-starter-lock" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-boot-starter/jeecg-boot-starter-rabbitmq" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-cloud-module" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-cloud-module/jeecg-cloud-gateway" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-cloud-module/jeecg-cloud-monitor" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-cloud-module/jeecg-cloud-nacos" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-cloud-module/jeecg-cloud-sentinel" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-cloud-module/jeecg-cloud-system-start" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/jeecg-cloud-module/jeecg-cloud-xxljob" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/jeecg-cloud-platform-api-job" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-3rd-api-system" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-amazon-sqs-job" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-ebay-api-job" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-system" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-system-base" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-system-cloud-api" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-system-job" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/qulv-system-local-api" charset="UTF-8" />
+    <file url="file://D:/DownModule/qulv2-qulv-cloud/jeecg-boot/tomtop-cloud-module/ziniao-rpa-common" charset="UTF-8" />
+  </component>
+</project>
